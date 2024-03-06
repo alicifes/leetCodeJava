@@ -1,0 +1,7 @@
+
+h	java:S116"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğæµô8›Ï¯Äà1
+h	java:S116"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÃÍâ8›Ï¯Äà1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğæµô8œÏ¯Äà1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(íÃÍâ8œÏ¯Äà1
