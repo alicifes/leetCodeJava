@@ -13,14 +13,10 @@ N
 src/easy/code_232/MyQueue.java,2/0/20c0f294b36b6e2460b0bc3257bbe9bc57a80613
 O
 src/middle/code_6/Solution.java,0/9/09457162a2f5b3e45b2193456a02eb7fb9d9b0b6
-N
-src/easy/code_206/Solutio.java,9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059
 O
 src/easy/code_206/ListNode.java,2/4/248ff9fa5e60774dd1a412805fcbec76f09fc7b1
 O
 src/easy/code_206/Solution.java,f/6/f6e27201c75049072265ebea2c26792a62063591
-Å
-Q.idea/sonarlint/securityhotspotstore/9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059,a/b/abbfab4e948ea24cd7c0f0a731c807cfdae1f89a
 Å
 Q.idea/sonarlint/securityhotspotstore/0/9/09457162a2f5b3e45b2193456a02eb7fb9d9b0b6,b/d/bd2192598b14bb0af01391c0702bb5c013c900a5
 :
@@ -52,3 +48,7 @@ B
 ,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
 Å
 Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b/0/b08f1ab659fbdd998f45c0def99188f980cc899b
+Q
+!src/middle/code_445/Solution.java,1/7/1717b486ee0b199af1287001df833f3574ca16d1
+Q
+!src/middle/code_445/ListNode.java,8/9/89d762a5eeeb9c36af8aa62fee3bac8745ab4d07

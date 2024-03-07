@@ -6,31 +6,33 @@ package easy.code_206;
  * @LastEditors: chenyuxiang
  * @Description:
  */
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * int val;
+ * ListNode next;
+ * ListNode() {}
+ * ListNode(int val) { this.val = val; }
+ * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-import easy.code_206.ListNode;
 
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode cur = new ListNode();
-        while (head.next != null){
-            if(cur.next == null){
-                cur.next = new ListNode();
-            } else {
-                cur.next = head;
-                head.val = cur.next.val;
-            }
+        if(head == null || head.next == null){
+            return head;
         }
-        return cur.next;
+        ListNode pre = reverseList(head.next);
+        //反转当前的
+        head.next.next = head;
+        head.next = null;
+        return pre;
     }
+
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);

@@ -4,46 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09457162a2f5b3e45b2193456a02eb7fb9d9b0b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20c0f294b36b6e2460b0bc3257bbe9bc57a80613" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/248ff9fa5e60774dd1a412805fcbec76f09fc7b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b702b347a40740add9adc3d6e0ad8139532ef87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acbd959ea310a1a5ee79bdb04dd6652d850d7b08" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3aea4f3500d57bf648cce5f6fde74ed91b59b6e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5557892711fdb93ae81964a99f6d943e3d65b4e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6e27201c75049072265ebea2c26792a62063591" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09457162a2f5b3e45b2193456a02eb7fb9d9b0b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/0/20c0f294b36b6e2460b0bc3257bbe9bc57a80613" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/248ff9fa5e60774dd1a412805fcbec76f09fc7b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/b/4b702b347a40740add9adc3d6e0ad8139532ef87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/c/acbd959ea310a1a5ee79bdb04dd6652d850d7b08" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/3/f3aea4f3500d57bf648cce5f6fde74ed91b59b6e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/5/f5557892711fdb93ae81964a99f6d943e3d65b4e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/6/f6e27201c75049072265ebea2c26792a62063591" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetcodeJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_206/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_206/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_232/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_96/Easy96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_96/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/treeTravel/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/treeTravel/TreeTravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_6/Solution.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/middle/code_445/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_445/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6e27201c75049072265ebea2c26792a62063591" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6e27201c75049072265ebea2c26792a62063591" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/92d1c51fae0b24aad99f2cef6cf88ef137bc7059" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/code_206/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/code_206/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/chenyuxiang/Documents/code/javaCode/MyLeetcodeJava/MyLeetcodeJava/src",
@@ -86,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Easy96.executor": "Run",
     "应用程序.Main.executor": "Run",
@@ -100,6 +71,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="middle.code_445" />
       <recent name="easy.treeTravel" />
     </key>
   </component>
@@ -183,12 +155,27 @@
       <updated>1709278814386</updated>
       <workItem from="1709278815791" duration="2453000" />
       <workItem from="1709537875056" duration="3918000" />
-      <workItem from="1709607409095" duration="6046000" />
+      <workItem from="1709607409095" duration="8081000" />
+      <workItem from="1709774009596" duration="71000" />
+      <workItem from="1709774095033" duration="7772000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1709714920567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709714920567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
