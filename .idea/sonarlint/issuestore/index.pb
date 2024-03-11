@@ -54,3 +54,19 @@ Q
 !src/middle/code_445/ListNode.java,8/9/89d762a5eeeb9c36af8aa62fee3bac8745ab4d07
 R
 "src/middle/code_2575/Solution.java,4/5/45c682a7b37a6874f0e2fc9ff9b125c9ced76ce4
+O
+src/easy/code_141/Solution.java,5/1/518ce833250263b862706d7c58056c8a053954de
+O
+src/easy/code_141/ListNode.java,b/e/be1314c65e05d648861a7c38701887764e95d475
+P
+ src/easy/code_2129/Solution.java,c/b/cb7fdad7d759143d0132c9872167d2d48bcc1066
+Q
+!src/middle/code_137/Solution.java,3/8/384ef48a26cf61981ce9948515e7d668252ee78c
+P
+ src/middle/code_19/Solution.java,8/0/8017d15f0e9e5f072f750190f7b61200f6a3e4c5
+P
+ src/middle/code_19/ListNode.java,0/8/08b08713e35c7b4b2b0dbba777c5e76534eb1239
+P
+ src/middle/code_24/Solution.java,c/1/c104711d9a481a6cd7e13a515bc7dc75e83a96df
+P
+ src/middle/code_24/ListNode.java,4/9/49e0931b646d85f83e516649c94f914b9d77e383
