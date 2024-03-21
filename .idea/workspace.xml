@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update">
-      <change afterPath="$PROJECT_DIR$/src/middle/code_59/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_61/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_61/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_64/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_72/Solution.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto inner">
+      <change afterPath="$PROJECT_DIR$/src/easy/code_104/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_104/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_83/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_83/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_82/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_82/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_86/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_86/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_92/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_92/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Easy96.executor": "Run",
     "应用程序.Main.executor": "Run",
@@ -65,12 +70,16 @@
     "应用程序.easy.code_141.Solution.executor": "Run",
     "应用程序.easy.code_206.Solution.executor": "Run",
     "应用程序.easy.code_2129.Solution.executor": "Run",
+    "应用程序.easy.code_83.Solution.executor": "Run",
     "应用程序.middle.code_19.Solution.executor": "Run",
     "应用程序.middle.code_24.Solution.executor": "Run",
     "应用程序.middle.code_2575.Solution.executor": "Run",
     "应用程序.middle.code_59.Solution.executor": "Run",
     "应用程序.middle.code_61.Solution.executor": "Run",
-    "应用程序.middle.code_64.Solution.executor": "Run"
+    "应用程序.middle.code_64.Solution.executor": "Run",
+    "应用程序.middle.code_82.Solution.executor": "Debug",
+    "应用程序.middle.code_86.Solution.executor": "Run",
+    "应用程序.middle.code_92.Solution.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,13 +92,13 @@
       <recent name="easy.treeTravel" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Solution">
+  <component name="RunManager" selected="应用程序.middle.code_82.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_72.Solution" />
+      <option name="MAIN_CLASS_NAME" value="easy.code_104.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_72.*" />
+          <option name="PATTERN" value="easy.code_104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_24.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_24.Solution" />
+    <configuration name="easy.code_83.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_83.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_24.*" />
+          <option name="PATTERN" value="easy.code_83.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_59.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_59.Solution" />
+    <configuration name="middle.code_82.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.code_82.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_59.*" />
+          <option name="PATTERN" value="middle.code_82.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_61.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_61.Solution" />
+    <configuration name="middle.code_86.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.code_86.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_61.*" />
+          <option name="PATTERN" value="middle.code_86.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_64.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_64.Solution" />
+    <configuration name="middle.code_92.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.code_92.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_64.*" />
+          <option name="PATTERN" value="middle.code_92.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.middle.code_82.Solution" />
+        <item itemvalue="应用程序.easy.code_83.Solution" />
         <item itemvalue="应用程序.Solution" />
-        <item itemvalue="应用程序.middle.code_64.Solution" />
-        <item itemvalue="应用程序.middle.code_61.Solution" />
-        <item itemvalue="应用程序.middle.code_59.Solution" />
-        <item itemvalue="应用程序.middle.code_24.Solution" />
+        <item itemvalue="应用程序.middle.code_92.Solution" />
+        <item itemvalue="应用程序.middle.code_86.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +180,12 @@
       <workItem from="1709537875056" duration="3918000" />
       <workItem from="1709607409095" duration="8081000" />
       <workItem from="1709774009596" duration="71000" />
-      <workItem from="1709774095033" duration="38688000" />
+      <workItem from="1709774095033" duration="39423000" />
+      <workItem from="1710826411471" duration="3884000" />
+      <workItem from="1710830399926" duration="980000" />
+      <workItem from="1710831437608" duration="699000" />
+      <workItem from="1710832160016" duration="8780000" />
+      <workItem from="1710985871127" duration="11916000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -205,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710146380525</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="auto inner">
+      <option name="closed" value="true" />
+      <created>1710751879968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710751879968</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +237,8 @@
     <MESSAGE value="add" />
     <MESSAGE value="add 2573" />
     <MESSAGE value="auto update" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
+    <MESSAGE value="auto inner" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto inner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -228,6 +251,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/middle/code_92/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/middle/code_82/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
