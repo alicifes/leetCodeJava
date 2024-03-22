@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto inner">
-      <change afterPath="$PROJECT_DIR$/src/easy/code_104/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_104/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_83/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_83/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_82/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_82/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_86/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_86/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_92/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_92/Solution.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update">
+      <change afterPath="$PROJECT_DIR$/src/easy/code_100/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_100/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_101/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_101/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_111/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_111/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_144/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_144/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -67,7 +65,10 @@
     "应用程序.Main.executor": "Run",
     "应用程序.Solution.executor": "Run",
     "应用程序.TreeTravel.executor": "Run",
+    "应用程序.easy.code_100.Solution.executor": "Run",
+    "应用程序.easy.code_111.Solution.executor": "Run",
     "应用程序.easy.code_141.Solution.executor": "Run",
+    "应用程序.easy.code_144.Solution.executor": "Run",
     "应用程序.easy.code_206.Solution.executor": "Run",
     "应用程序.easy.code_2129.Solution.executor": "Run",
     "应用程序.easy.code_83.Solution.executor": "Run",
@@ -92,13 +93,13 @@
       <recent name="easy.treeTravel" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.middle.code_82.Solution">
+  <component name="RunManager" selected="应用程序.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_104.Solution" />
+      <option name="MAIN_CLASS_NAME" value="easy.code_101.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_104.*" />
+          <option name="PATTERN" value="easy.code_101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.code_83.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_83.Solution" />
+    <configuration name="easy.code_100.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_100.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_83.*" />
+          <option name="PATTERN" value="easy.code_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="easy.code_111.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_111.Solution" />
+      <module name="MyLeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.code_111.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="easy.code_144.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_144.Solution" />
+      <module name="MyLeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.code_144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,39 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_86.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_86.Solution" />
-      <module name="MyLeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="middle.code_86.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="middle.code_92.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_92.Solution" />
-      <module name="MyLeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="middle.code_92.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.middle.code_82.Solution" />
-        <item itemvalue="应用程序.easy.code_83.Solution" />
         <item itemvalue="应用程序.Solution" />
-        <item itemvalue="应用程序.middle.code_92.Solution" />
-        <item itemvalue="应用程序.middle.code_86.Solution" />
+        <item itemvalue="应用程序.easy.code_100.Solution" />
+        <item itemvalue="应用程序.easy.code_111.Solution" />
+        <item itemvalue="应用程序.easy.code_144.Solution" />
+        <item itemvalue="应用程序.middle.code_82.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +186,7 @@
       <workItem from="1710830399926" duration="980000" />
       <workItem from="1710831437608" duration="699000" />
       <workItem from="1710832160016" duration="8780000" />
-      <workItem from="1710985871127" duration="11916000" />
+      <workItem from="1710985871127" duration="23169000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710751879968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="auto update">
+      <option name="closed" value="true" />
+      <created>1711006684724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711006684724</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,9 +245,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <MESSAGE value="add 2573" />
-    <MESSAGE value="auto update" />
     <MESSAGE value="auto inner" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto inner" />
+    <MESSAGE value="auto update" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

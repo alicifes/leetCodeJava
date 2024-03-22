@@ -102,3 +102,19 @@ P
  src/middle/code_82/ListNode.java,2/8/280438befada14354235828d24d8af3543e387fc
 P
  src/middle/code_82/Solution.java,d/e/debdf6665d5cc5f76869667707cb9cdfdade2a1c
+O
+src/easy/code_144/Solution.java,a/2/a2b3067b9173ec90e6c5f364bf47bf76ab5fc36a
+O
+src/easy/code_144/TreeNode.java,d/3/d39a1d4d6bf65ccb0fe776545f80fdb9d6b9c4cc
+O
+src/easy/code_111/TreeNode.java,f/0/f0409fdfbfb7817204de777b42d32bf7e2618bef
+O
+src/easy/code_111/Solution.java,0/c/0cc9cc588defb21a6e036cad75a24fae99d3e8d7
+O
+src/easy/code_100/TreeNode.java,9/9/9936fa2821242a8fd15fe514f98ae71b193d542e
+O
+src/easy/code_100/Solution.java,5/9/5934613881c42dc424e6747ecdd92c39a03bcbb0
+O
+src/easy/code_101/Solution.java,b/e/bee6533faf44196346b2bc4b7c4581607ef7b612
+O
+src/easy/code_101/TreeNode.java,2/b/2bd597c8f35d1928a2e71fefa25745c3ea372c86
