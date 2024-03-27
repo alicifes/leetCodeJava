@@ -1,5 +1,7 @@
 package easy.code_101;
 
+import java.util.HashMap;
+
 public class Solution {
     public boolean isSymmetric(TreeNode root) {
         if (root == null) {
