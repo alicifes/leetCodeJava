@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update">
-      <change afterPath="$PROJECT_DIR$/src/easy/code_108/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_108/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_110/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_110/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_112/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_112/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_160/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_160/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_222/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_222/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_518/Solution.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update 24-3-27">
+      <change afterPath="$PROJECT_DIR$/src/easy/code_203/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_203/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_225/MyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/code_101/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/code_101/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/code_206/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/code_206/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/code_112/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/code_112/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +56,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "通义灵码",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Easy96.executor": "Run",
     "应用程序.Main.executor": "Run",
+    "应用程序.MyStack.executor": "Run",
     "应用程序.Solution.executor": "Run",
     "应用程序.TreeTravel.executor": "Run",
     "应用程序.easy.code_100.Solution.executor": "Run",
@@ -104,13 +96,13 @@
       <recent name="easy.treeTravel" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.easy.code_112.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_101.Solution" />
+  <component name="RunManager" selected="应用程序.MyStack">
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_225.MyStack" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_101.*" />
+          <option name="PATTERN" value="easy.code_225.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.MyStack" />
         <item itemvalue="应用程序.easy.code_112.Solution" />
         <item itemvalue="应用程序.easy.code_110.Solution" />
         <item itemvalue="应用程序.easy.code_222.Solution" />
         <item itemvalue="应用程序.easy.code_108.Solution" />
-        <item itemvalue="应用程序.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +189,12 @@
       <workItem from="1710830399926" duration="980000" />
       <workItem from="1710831437608" duration="699000" />
       <workItem from="1710832160016" duration="8780000" />
-      <workItem from="1710985871127" duration="42768000" />
+      <workItem from="1710985871127" duration="43639000" />
+      <workItem from="1711586574090" duration="380000" />
+      <workItem from="1711587335755" duration="5625000" />
+      <workItem from="1711594528970" duration="4040000" />
+      <workItem from="1711614426338" duration="766000" />
+      <workItem from="1711615208125" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -255,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711085576286</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="auto update 24-3-27">
+      <option name="closed" value="true" />
+      <created>1711529101766</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711529101766</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +271,8 @@
     <MESSAGE value="add 2573" />
     <MESSAGE value="auto inner" />
     <MESSAGE value="auto update" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update" />
+    <MESSAGE value="auto update 24-3-27" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto update 24-3-27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

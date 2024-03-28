@@ -18,7 +18,6 @@ public class Solution {
         }
         num += root.val;
         return getPath(root.right, num, targetSum) || getPath(root.left, num, targetSum);
-        Exception
     }
 
     public static void main(String[] args) {
