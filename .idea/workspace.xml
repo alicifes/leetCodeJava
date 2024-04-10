@@ -4,14 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update 24-3-27">
-      <change afterPath="$PROJECT_DIR$/src/easy/code_203/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_203/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_225/MyStack.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update 24-3-28">
+      <change afterPath="$PROJECT_DIR$/src/easy/code_1379/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_1379/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_171/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_226/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_226/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_234/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_234/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_2529/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_257/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_257/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_278/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_2810/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_2908/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_303/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_374/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_404/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_404/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_461/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_463/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_501/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_501/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_543/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_543/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_589/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_589/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_131/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_1702/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_96/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/code_112/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/code_112/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "通义灵码",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Easy96.executor": "Run",
     "应用程序.Main.executor": "Run",
@@ -68,12 +92,27 @@
     "应用程序.easy.code_110.Solution.executor": "Run",
     "应用程序.easy.code_111.Solution.executor": "Run",
     "应用程序.easy.code_112.Solution.executor": "Run",
+    "应用程序.easy.code_1379.Solution.executor": "Run",
     "应用程序.easy.code_141.Solution.executor": "Run",
     "应用程序.easy.code_144.Solution.executor": "Run",
+    "应用程序.easy.code_171.Solution.executor": "Run",
     "应用程序.easy.code_206.Solution.executor": "Run",
     "应用程序.easy.code_2129.Solution.executor": "Run",
     "应用程序.easy.code_222.Solution.executor": "Run",
+    "应用程序.easy.code_226.Solution.executor": "Run",
+    "应用程序.easy.code_234.Solution.executor": "Run",
+    "应用程序.easy.code_2529.Solution.executor": "Run",
+    "应用程序.easy.code_257.Solution.executor": "Run",
+    "应用程序.easy.code_278.Solution.executor": "Run",
+    "应用程序.easy.code_2810.Solution.executor": "Run",
+    "应用程序.easy.code_303.Solution.executor": "Run",
+    "应用程序.easy.code_374.Solution.executor": "Run",
+    "应用程序.easy.code_404.Solution.executor": "Run",
+    "应用程序.easy.code_461.Solution.executor": "Run",
+    "应用程序.easy.code_463.Solution.executor": "Run",
+    "应用程序.easy.code_589.Solution.executor": "Run",
     "应用程序.easy.code_83.Solution.executor": "Run",
+    "应用程序.middle.code_1702.Solution.executor": "Run",
     "应用程序.middle.code_19.Solution.executor": "Run",
     "应用程序.middle.code_24.Solution.executor": "Run",
     "应用程序.middle.code_2575.Solution.executor": "Run",
@@ -96,13 +135,13 @@
       <recent name="easy.treeTravel" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MyStack">
-    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_225.MyStack" />
+  <component name="RunManager" selected="应用程序.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_501.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_225.*" />
+          <option name="PATTERN" value="easy.code_501.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.code_108.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_108.Solution" />
+    <configuration name="easy.code_171.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_171.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_108.*" />
+          <option name="PATTERN" value="easy.code_171.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.code_110.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_110.Solution" />
+    <configuration name="easy.code_2529.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_2529.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_110.*" />
+          <option name="PATTERN" value="easy.code_2529.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.code_112.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_112.Solution" />
+    <configuration name="easy.code_278.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_278.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_112.*" />
+          <option name="PATTERN" value="easy.code_278.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.code_222.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.code_222.Solution" />
+    <configuration name="middle.code_1702.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.code_1702.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.code_222.*" />
+          <option name="PATTERN" value="middle.code_1702.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyStack" />
-        <item itemvalue="应用程序.easy.code_112.Solution" />
-        <item itemvalue="应用程序.easy.code_110.Solution" />
-        <item itemvalue="应用程序.easy.code_222.Solution" />
-        <item itemvalue="应用程序.easy.code_108.Solution" />
+        <item itemvalue="应用程序.Solution" />
+        <item itemvalue="应用程序.middle.code_1702.Solution" />
+        <item itemvalue="应用程序.easy.code_171.Solution" />
+        <item itemvalue="应用程序.easy.code_278.Solution" />
+        <item itemvalue="应用程序.easy.code_2529.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +233,9 @@
       <workItem from="1711587335755" duration="5625000" />
       <workItem from="1711594528970" duration="4040000" />
       <workItem from="1711614426338" duration="766000" />
-      <workItem from="1711615208125" duration="479000" />
+      <workItem from="1711615208125" duration="14484000" />
+      <workItem from="1711895122021" duration="63000" />
+      <workItem from="1711895194961" duration="33243000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -260,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711529101766</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="auto update 24-3-28">
+      <option name="closed" value="true" />
+      <created>1711615706452</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711615706452</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +321,8 @@
     <MESSAGE value="auto inner" />
     <MESSAGE value="auto update" />
     <MESSAGE value="auto update 24-3-27" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update 24-3-27" />
+    <MESSAGE value="auto update 24-3-28" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto update 24-3-28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -285,6 +335,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/easy/code_404/Solution.java</url>
+          <line>27</line>
+          <properties class="easy.code_404.Solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/easy/code_543/Solution.java</url>
+          <line>24</line>
+          <properties class="easy.code_543.Solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
@@ -299,6 +367,21 @@
           <url>file://$PROJECT_DIR$/src/middle/code_82/Solution.java</url>
           <line>16</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/code_374/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/code_374/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/code_374/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
