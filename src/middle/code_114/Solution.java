@@ -1,5 +1,7 @@
 package middle.code_114;
 
+import middle.code_142.ListNode;
+
 /**
  * @Author chenyuxiang
  * @Date 2024/4/17
@@ -11,6 +13,11 @@ public class Solution {
         if (root == null) {
             return;
         }
+        Class<ListNode> listNodeClass = ListNode.class;
+        //获取名称.包括包名
+        System.out.println(listNodeClass.getName());
+        //获取简单名称
+        System.out.println(listNodeClass.getSimpleName());
         //将根节点的左子树变成链表
         flatten(root.left);
         //将根节点的右子树变成链表

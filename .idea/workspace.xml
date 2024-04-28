@@ -4,29 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="auto update 24-4-10">
-      <change afterPath="$PROJECT_DIR$/src/easy/code_530/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_530/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_557/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_559/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/code_559/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/lcp_01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/lcp_02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/lcp_06/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/lcp_07/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hard/code_10/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_114/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_114/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_148/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_148/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_2007/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_237/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_237/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_75/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle/code_79/Solution.java" afterDir="false" />
+    <list default="true" id="63d51b7c-9652-411c-9fa0-74283377349f" name="更改" comment="add edit">
+      <change afterPath="$PROJECT_DIR$/src/demo/reflet_test/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/reflet_test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_2739/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_500/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/code_594/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_1146/SnapshotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_142/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_142/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_2385/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_2385/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_377/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle/code_377/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middle/code_114/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/middle/code_114/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +65,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Easy96.executor": "Run",
     "应用程序.Main.executor": "Run",
     "应用程序.MyStack.executor": "Run",
-    "应用程序.Solution.executor": "Debug",
+    "应用程序.SnapshotArray.executor": "Run",
+    "应用程序.Solution.executor": "Run",
     "应用程序.TreeTravel.executor": "Run",
+    "应用程序.demo.reflet_test.Solution.executor": "Run",
     "应用程序.easy.code_100.Solution.executor": "Run",
     "应用程序.easy.code_108.Solution.executor": "Run",
     "应用程序.easy.code_110.Solution.executor": "Run",
@@ -101,21 +97,26 @@
     "应用程序.easy.code_404.Solution.executor": "Run",
     "应用程序.easy.code_461.Solution.executor": "Run",
     "应用程序.easy.code_463.Solution.executor": "Run",
+    "应用程序.easy.code_500.Solution.executor": "Run",
     "应用程序.easy.code_530.Solution.executor": "Run",
     "应用程序.easy.code_557.Solution.executor": "Run",
     "应用程序.easy.code_559.Solution.executor": "Run",
     "应用程序.easy.code_589.Solution.executor": "Run",
+    "应用程序.easy.code_594.Solution.executor": "Run",
     "应用程序.easy.code_83.Solution.executor": "Run",
     "应用程序.easy.lcp_01.Solution.executor": "Run",
     "应用程序.easy.lcp_02.Solution.executor": "Run",
     "应用程序.easy.lcp_06.Solution.executor": "Run",
     "应用程序.middle.code_114.Solution.executor": "Run",
+    "应用程序.middle.code_142.Solution.executor": "Run",
     "应用程序.middle.code_148.Solution.executor": "Run",
     "应用程序.middle.code_1702.Solution.executor": "Run",
     "应用程序.middle.code_19.Solution.executor": "Run",
     "应用程序.middle.code_2007.Solution.executor": "Run",
+    "应用程序.middle.code_2385.Solution.executor": "Run",
     "应用程序.middle.code_24.Solution.executor": "Run",
     "应用程序.middle.code_2575.Solution.executor": "Run",
+    "应用程序.middle.code_377.Solution.executor": "Debug",
     "应用程序.middle.code_518.Solution.executor": "Run",
     "应用程序.middle.code_59.Solution.executor": "Run",
     "应用程序.middle.code_61.Solution.executor": "Run",
@@ -136,13 +137,13 @@
       <recent name="easy.treeTravel" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Solution">
+  <component name="RunManager" selected="应用程序.easy.code_594.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.lcp_07.Solution" />
+      <option name="MAIN_CLASS_NAME" value="easy.code_2739.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.lcp_07.*" />
+          <option name="PATTERN" value="easy.code_2739.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.lcp_01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.lcp_01.Solution" />
+    <configuration name="demo.reflet_test.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.reflet_test.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.lcp_01.*" />
+          <option name="PATTERN" value="demo.reflet_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.lcp_02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.lcp_02.Solution" />
+    <configuration name="easy.code_500.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_500.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.lcp_02.*" />
+          <option name="PATTERN" value="easy.code_500.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="easy.lcp_06.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.lcp_06.Solution" />
+    <configuration name="easy.code_594.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.code_594.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.lcp_06.*" />
+          <option name="PATTERN" value="easy.code_594.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="middle.code_2007.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="middle.code_2007.Solution" />
+    <configuration name="middle.code_2385.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="middle.code_2385.Solution" />
       <module name="MyLeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="middle.code_2007.*" />
+          <option name="PATTERN" value="middle.code_2385.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.easy.code_594.Solution" />
+        <item itemvalue="应用程序.middle.code_2385.Solution" />
+        <item itemvalue="应用程序.easy.code_500.Solution" />
+        <item itemvalue="应用程序.demo.reflet_test.Solution" />
         <item itemvalue="应用程序.Solution" />
-        <item itemvalue="应用程序.easy.lcp_06.Solution" />
-        <item itemvalue="应用程序.easy.lcp_02.Solution" />
-        <item itemvalue="应用程序.easy.lcp_01.Solution" />
-        <item itemvalue="应用程序.middle.code_2007.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +239,13 @@
       <workItem from="1711895122021" duration="63000" />
       <workItem from="1711895194961" duration="58905000" />
       <workItem from="1713429102257" duration="3100000" />
-      <workItem from="1713489400538" duration="3102000" />
+      <workItem from="1713489400538" duration="4313000" />
+      <workItem from="1713748092879" duration="1546000" />
+      <workItem from="1713750848772" duration="16066000" />
+      <workItem from="1713940766467" duration="2632000" />
+      <workItem from="1714030886031" duration="2578000" />
+      <workItem from="1714291208115" duration="175000" />
+      <workItem from="1714291401996" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -320,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712717227331</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add edit">
+      <option name="closed" value="true" />
+      <created>1713494424256</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713494424256</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +349,8 @@
     <MESSAGE value="auto update 24-3-27" />
     <MESSAGE value="auto update 24-3-28" />
     <MESSAGE value="auto update 24-4-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto update 24-4-10" />
+    <MESSAGE value="add edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add edit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -384,6 +400,15 @@
           </properties>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/middle/code_377/Solution.java</url>
+          <line>23</line>
+          <properties class="middle.code_377.Solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
@@ -422,6 +447,11 @@
           <url>file://$PROJECT_DIR$/src/easy/lcp_07/Solution.java</url>
           <line>28</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/middle/code_377/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
